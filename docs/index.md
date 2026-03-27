@@ -5,6 +5,9 @@ description: "In the case you need to acquire detailed city data to produce a la
 staff:
     - name: Cole White
       link: https://library.utoronto.ca/staff/cole-white
+maintainer: 
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
 created_date: 2023-12-08
 permalink: "/"  #! Remove this if not the homepage
 ---
