@@ -40,6 +40,3 @@ A third-party plugin called [**OSMDownloader**](https://plugins.qgis.org/plugins
 7. The OSM data layers will appear on the map and in the Layers pane.
 
     ![OSM data will appear on the map and in the layer panel on the left hand side ]({{ '/assets/images/image_3.png' | relative_url }})
-
-Tools: [QGIS](https://mdl.library.utoronto.ca/tools/qgis) | Data Format: [Vector](https://mdl.library.utoronto.ca/data-format/vector)
-
